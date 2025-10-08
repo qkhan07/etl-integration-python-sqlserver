@@ -1,0 +1,7 @@
+# secrets
+*.env
+ETL/PY/.env
+
+# local artifacts / logs (optional)
+Logs/
+*.log
