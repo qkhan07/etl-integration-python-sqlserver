@@ -1,0 +1,3 @@
+AccountId,AccountName,Industry,BillingCity,OwnerUserId,CreatedDate
+1,Ursa Major Solar,Energy,Denver,2,2025-01-01T00:00:00Z
+2,Frontier Airlines,Travel,Denver,2,2025-01-01T00:00:00Z

@@ -1,0 +1,4 @@
+OpportunityId,AccountId,OwnerUserId,Name,StageName,Amount,CloseDate,IsWon,CreatedDate
+10,1,3,Solar Upgrade Phase X,Prospecting,26000,2025-12-15,0,2025-02-01T00:00:00Z
+11,2,4,Fare Bundling API+,Negotiation,65000,2025-11-30,0,2025-02-01T00:00:00Z
+12,1,3,New Expansion,Prospecting,12000,2025-12-31,0,2025-02-01T00:00:00Z
